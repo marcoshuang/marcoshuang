@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Repositorio em manutenção
+Repositorio em manutenção para organização e atualizaçções de projetos
 <!--
 **marcoshuang/marcoshuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
